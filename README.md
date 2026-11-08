@@ -34,7 +34,7 @@ Developing a real-time face-tracking camera using Python and OpenCV, with pan-ti
 
 **Line Following Robot** — Makeathon Project
 
-Collaborated on the integration of a Raspberry Pi-based line-following robot, contributing to electronics, system integration and prototyping.
+Collaborated on the integration of a Raspberry Pi-based line-following robot, contributing to electronics, design, system integration and prototyping.
 
 **Crescent Robotics** — Lunar Rover Project
 
