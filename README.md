@@ -1,2 +1,2 @@
-# Baturalp-am
+# Baturalp Cam
 About me
