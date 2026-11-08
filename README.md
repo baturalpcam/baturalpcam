@@ -1,30 +1,54 @@
-# Baturalp Cam
+# Baturalp Çam
 
-# Hi, I'm Baturalp Çam
+**Mechanical Engineering Student | Robotics & Intelligent Systems**
 
-Mechanical Engineering student at the University of Bristol, interested in robotics, intelligent systems and applied engineering.
+I'm a Mechanical Engineering undergraduate at the University of Bristol, interested in robotics, autonomous systems and the integration of mechanical engineering with intelligent technologies.
 
-I'm focused on developing practical engineering skills through hands-on projects, combining mechanical design, programming and electronics.
+I enjoy turning engineering concepts into practical systems through hands-on projects, experimentation and collaborative problem-solving.
 
-### Interests
+## Areas of Interest
+
 - Robotics & Autonomous Systems
-- Computer Vision
-- Mechanical Design & CAD
-- Embedded Systems
-- Artificial Intelligence
+- Mechanical Design & Product Development
+- Computer Vision & Artificial Intelligence
+- Embedded Systems & Automation
+- Engineering Innovation
 
-### Technologies & Tools
-- Python
-- OpenCV
-- Git & GitHub
-- Fusion 360
-- Arduino
+## Technical Skills
 
-### Current Projects
-- Face Tracking Camera — Python, OpenCV and servo-based camera control
-- Line Following Robot — Makeathon robotics project
+**Programming:** Python
 
-### Education
-- BEng Mechanical Engineering — University of Bristol
+**Computer Vision:** OpenCV (currently developing)
 
-I'm continuously learning, building and documenting engineering projects.
+**Hardware:** Raspberry Pi, Arduino (project-dependent)
+
+**CAD & Design:** Fusion 360
+
+**Tools:** Git, GitHub
+
+## Selected Projects
+
+**Face Tracking Camera** — Personal Project (In Development)
+
+Developing a real-time face-tracking camera using Python and OpenCV, with pan-tilt servo control for physical camera movement.
+
+**Line Following Robot** — Makeathon Project
+
+Collaborated on the integration of a Raspberry Pi-based line-following robot, contributing to system integration and prototyping.
+
+**Crescent Robotics** — Lunar Rover Project
+
+Contributing to a student robotics competition project, with responsibilities in project leadership and mechanical subsystems.
+
+**Bristol Racing** — RC Car Development
+
+Working within the RC team, focusing on mechanical and drivetrain development.
+
+## Education
+
+**University of Bristol**
+BEng Mechanical Engineering
+
+---
+
+Always learning, building and exploring new engineering challenges.
